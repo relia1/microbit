@@ -33,6 +33,8 @@ optional = true
 version = "0.16.0"
 
 [dependencies.nrf52833-hal]
+git = "https://github.com/relia1/nrf-hal"
+branch = "embedded-hal"
 optional = true
 version = "0.16.0"
 
